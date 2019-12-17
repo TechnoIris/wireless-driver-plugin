@@ -4,5 +4,5 @@ And hereby, at most of the brand drivers dont support the open source/free softw
 hoping your firmware supports the content of "Wireless Driver Plugin", providing the code.
 please go through the .sh file before executing.
 
-chmod +x ./firmware.sh
-./firmware.sh
+chmod +x ./firmware_802.11.sh
+./firmware_802.11.sh
